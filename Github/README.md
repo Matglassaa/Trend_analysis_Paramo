@@ -1,0 +1,1 @@
+This folder contains the functions and python notebooks used for the Trend analysis part in the project.
